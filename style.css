@@ -1,0 +1,49 @@
+.container{
+
+    margin-bottom: 30px;
+}
+.logo_size{
+
+    width: 50%;
+}
+
+.bg-1{
+
+   margin-top: 5px;
+   margin-bottom: 5px;
+    height: 300px;
+    
+}
+
+body {
+
+    background-image: url("images/bg-2.png");
+    background-size: 10%;
+    background-repeat: no-repeat;
+    background-position-x: -15px;
+    background-position-y: 420px;
+    
+}
+
+.card{
+    box-shadow: 5px 5px 20px rgb(53, 82, 48);
+    border: none;
+    border-radius: 2%;
+    margin-bottom: 50px;
+    
+}
+
+.card img{
+  
+    width: 50%;
+    
+}
+
+.d-flex{
+
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+
